@@ -2,10 +2,10 @@
 This is just first version of thet pokedex app, it still incomplete !
 It has been only tested on ios, it will require few modification to run on android
 
-#Firestone
+# Firestone
 Firebase firestone database was used with this app
 <img src="/demo/firestone.png" width="250">
-Scheme:
+###Scheme:
 ```
 English: Array of strings (words) for the whole sentence
 EnglishTrIndex: index of the word that needed to be translate
