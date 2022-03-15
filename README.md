@@ -4,7 +4,7 @@ It has been only tested on ios, it will require few modification to run on andro
 
 # Firestone
 Firebase firestone database was used with this app
-<img src="/demo/firestone.png" width="250">
+<img src="/demo/firestone.png" width="400" height="250>
 
 ### Scheme:
 ```
