@@ -5,7 +5,8 @@ It has been only tested on ios, it will require few modification to run on andro
 # Firestone
 Firebase firestone database was used with this app
 <img src="/demo/firestone.png" width="250">
-###Scheme:
+
+### Scheme:
 ```
 English: Array of strings (words) for the whole sentence
 EnglishTrIndex: index of the word that needed to be translate
